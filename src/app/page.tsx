@@ -1,8 +1,8 @@
 'use client';
 
 import React from 'react';
-import { FaChartBar, FaRegLightbulb } from 'react-icons/fa';
-import { NavigationCard } from './components/cards/NavigationCard';
+// import { FaChartBar, FaRegLightbulb } from 'react-icons/fa';
+// import { NavigationCard } from './components/cards/NavigationCard';
 import './home.css';
 
 export default function Home() {
