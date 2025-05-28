@@ -1,0 +1,20 @@
+.page-stats-grid {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  gap: 1.5rem;
+  width: 100%;
+  margin: 0 auto;
+}
+
+@media (min-width: 640px) {
+  .page-stats-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (min-width: 1024px) {
+  .page-stats-grid {
+    grid-template-columns: repeat(2, 1fr);
+    max-width: 1280px;
+  }
+}

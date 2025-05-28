@@ -1,0 +1,24 @@
+{
+  "stats": [
+    [
+      {
+        "label": "Total Movies",
+        "value": "1,234"
+      },
+      {
+        "label": "Total Songs",
+        "value": "5,678"
+      }
+    ],
+    [
+      {
+        "label": "Active Users",
+        "value": "892"
+      },
+      {
+        "label": "Recommendations",
+        "value": "10,456"
+      }
+    ]
+  ]
+}
