@@ -9,7 +9,7 @@ export default function Home() {
   return (
     <main className="home-page">
       <h1 className="home-title">myth.fun</h1>
-      <p className="home-subtitle">Explore your personalized recommendations and stats</p>
+      <p className="home-subtitle">Some Fun Personal Projects I made just because I wanted to</p>
       
       {/* <div className="navigation-grid">
         <NavigationCard
